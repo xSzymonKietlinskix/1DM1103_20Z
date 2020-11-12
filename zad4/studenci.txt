@@ -1,0 +1,10 @@
+9
+Jan|Kowalski|123456|1DE1203|Matematyka|5.0|1
+Grzegorz|Włodek|222222|1DE1203|Matematyka|4.0|2
+Jan|Kowalski|123456|1DE1101|Fizyka|3.5|1
+Jan|Kowalski|123456|1DE1103|Podstawy programowania|2.5|2
+Irena|Janowska|444444|1DE1203|Matematyka|5.5|3
+Jan|Kowalski|123456|1DE1103|Podstawy programowania|5.0|2
+Irena|Janowska|444444|1DJ1101|Język obcy|2.0|7
+Jan|Kowalska|123457|1DJ1101|Język obcy|3.0|2
+Irena|Janowska|444444|1DE1101|Fizyka|2.0|6
